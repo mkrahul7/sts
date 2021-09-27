@@ -11,7 +11,7 @@
 	<groupId>com.packageName</groupId>
 	<artifactId>projectName</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>Testing-1</name>
+	<name>Testin-1</name>
 	<description>flight reservation app</description>
 	<properties>
 		<java.version>11</java.version>
